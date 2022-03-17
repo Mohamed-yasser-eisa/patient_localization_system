@@ -1,6 +1,8 @@
 # patient_localization_system
  
 build date of this project: (31 October, 2020)
+This project was a task required from me and my teammate in electronics class.
+I was the one who built the android applications in Java using Android Studio IDE.
 
 1- Project description:
 
