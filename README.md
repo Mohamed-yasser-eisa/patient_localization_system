@@ -2,10 +2,9 @@
  
 build date of this project: (31 October, 2020)
 
-This project was a task required from me and my teammates (we were 4 members in 
-the team) in electronics class.
-
-I was the one who built the android applications in Java using Android Studio IDE.
+This project was a team based task required from me and my teammates (we were 4 
+members) in electronics class. I was the one who built the android applications in 
+Java using Android Studio IDE.
 
 1- Project description:
 
@@ -17,8 +16,3 @@ I was the one who built the android applications in Java using Android Studio ID
     
     (ESP chip, different Wi-Fi hotspots, Java android application, python desktop 
     application, AI algorithm, Google firebase database).
-
-    
-
-    
-
