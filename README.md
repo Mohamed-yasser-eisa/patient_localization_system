@@ -9,8 +9,11 @@ build date of this project: (31 October, 2020)
     the patient entered and where the patient in now. 
 
 2- Tools:
+    
     (ESP chip, different Wi-Fi hotspots, Java android application, python desktop 
     application, AI algorithm, Google firebase database).
+
+    
 
     
 
